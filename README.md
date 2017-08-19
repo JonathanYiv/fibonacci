@@ -22,4 +22,6 @@ This should be relatively easy -- I had just completed [Code Quizzes: Beginner R
 
 ## Post-Project Thoughts
 
-This project is currently incomplete.
+The project was completed in about 5 minutes. 
+I looked at other student's solutions and noticed a select few were able to condense the recursive function into one line.
+I have taken notes on their strategems for future usage.
